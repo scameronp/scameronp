@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A passionate Data Scientist from Montreal.</h3>
+<h3 align="center">A passionate Data Scientist from Montreal, Canada</h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/scameronpesant](https://troopl.com/scameronpesant)
 
